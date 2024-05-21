@@ -1,5 +1,6 @@
 ### Project Overview 
 In this project, I'm using the most recent data from the US Department of Education's College Scorecard for the 2021-2022 school year and supplementing it with previous years' data to investigate a number of questions. Find the data sets used here: https://collegescorecard.ed.gov/data 
+Read the full write up of the project here: https://darcymccusker.substack.com/p/understanding-the-college-scorecard
 
 The questions I'm interested are as follows:
 >  1. How does the median debt at graduation vary across different Carnegie classifications of institutions?
